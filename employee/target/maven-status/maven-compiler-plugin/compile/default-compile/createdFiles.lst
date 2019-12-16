@@ -1,0 +1,6 @@
+com\employee\service\EmployeeService.class
+com\employee\repository\EmployeeRepo.class
+com\employee\controller\EmployeeController.class
+com\employee\modals\Employee.class
+com\employee\EmployeeApplication.class
+com\employee\serviceImpl\EmployeeServiceImpl.class
